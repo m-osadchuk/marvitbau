@@ -162,7 +162,7 @@ a:hover,a:focus{ text-decoration: none}
 }
 /* Main Nav */
 nav.navbar.bootsnav {
-    background: #222533 none repeat scroll 0 0;
+    background: #2745cc none repeat scroll 0 0;
     border: 0 none;
 }
 nav.navbar.bootsnav ul.nav > li > a {
@@ -597,7 +597,7 @@ footer::before {
     z-index: 1;
 }
 footer::after {
-    background: rgba(34, 37, 51, 0.9) none repeat scroll 0 0;
+    background: rgba(122, 145, 245, 0.9) none repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
@@ -689,7 +689,7 @@ footer::after {
     overflow: hidden;
 }
 .footer_bottom {
-    background: #1a1c27 none repeat scroll 0 0;
+    background: #2745cc none repeat scroll 0 0;
     padding: 28px 0 18px;
     margin-top:55px;
 }
